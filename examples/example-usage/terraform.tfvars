@@ -1,0 +1,6 @@
+region         = "us-east-1"
+ami_id         = "ami-0c55b159cbfafe1f0"
+instance_type  = "t2.micro"
+key_name       = "my-ssh-key"         
+instance_name  = "my-ec2-instance"
+vpc_id         = "vpc-123456"         
